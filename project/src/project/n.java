@@ -6,5 +6,4 @@ public class n {
 		// TODO Auto-generated method stub
 
 	}
-
 }
