@@ -1,0 +1,19 @@
+﻿.LOG
+
+9:06 2019/4/11
+v1
+
+9:09 2019/4/11
+v2
+
+9:14 2019/4/11
+git add 1.txt
+git commit -m "v3 1.txt"
+git remote add origin https://github.com/2959916298/1.git
+git push -u origin master
+
+9:00 2019/4/18
+v4
+
+9:20 2019/4/28
+分支
